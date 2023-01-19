@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-osWYLa's GitHub stats](https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent)
+<-- osWYLa's GitHub stats](https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent) -->
+<details>
+        <summary>
+            :zap: Github Stats
+        </summary>
+        <img align="left" alt="osWYLa's Github Stats" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent"/>
+    </details>
