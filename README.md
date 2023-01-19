@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <details>
-        <summary>:zap: Github Stats</summary>
-        <img align="left" alt="osWYLa's Github Stats" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only"/>
+        <summary>:zap: 数据统计</summary>
+        <img align="left" alt="osWYLa的数据统计" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only"/>
 </details>
