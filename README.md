@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 <details>
         <summary>:zap: 数据统计</summary>
-        <img align="left" alt="osWYLa的数据统计" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only"/>
+        <img align="left" alt="osWYLa" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only"/>
 </details>
