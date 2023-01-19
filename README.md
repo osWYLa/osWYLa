@@ -13,15 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<details>
-        <img align="left" alt="osWYLa" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only" />
-        <img align="right" alt="osWYLa" src="https://github-readme-stats-fork-tau.vercel.app/api/top-langs/?username=osWYLa&layout=compact&langs_count=8" />
-</details>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only" />
+- 
+<a>
+  <img align="left" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-fork-tau.vercel.app/api/top-langs/?username=osWYLa&layout=compact&langs_count=8" />
+<a>
+  <img align="right" src="https://github-readme-stats-fork-tau.vercel.app/api/top-langs/?username=osWYLa&layout=compact&langs_count=8" />
 </a>
