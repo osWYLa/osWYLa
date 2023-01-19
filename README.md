@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </details>
 <details>
         <summary>:zap: Top Langs</summary>
-        <img align="right" alt="osWYLa" src="https://github-readme-stats-fork-tau.vercel.app/apitop-langs/?username=osWYLa&layout=compact&langs_count=8"/>
+        <img align="right" alt="osWYLa" src="https://github-readme-stats-fork-tau.vercel.app/api/top-langs/?username=osWYLa&layout=compact&langs_count=8"/>
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
