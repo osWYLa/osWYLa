@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
+
+
 <a>
-  <img align="left" src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only" />
+  <img  src="https://github-readme-stats-fork-tau.vercel.app/api?username=osWYLa&show_icons=true&theme=transparent#gh-dark-mode-only" />
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats-fork-tau.vercel.app/api/top-langs/?username=osWYLa&layout=compact&langs_count=8" />
+  <img  src="https://github-readme-stats-fork-tau.vercel.app/api/top-langs/?username=osWYLa&layout=compact&langs_count=8" />
 </a>
